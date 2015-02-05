@@ -1,0 +1,17 @@
+First things first, download a distribution of Python if you haven't done so already. The following are a few great platforms:
+1) Anaconda Python   https://store.continuum.io/cshop/anaconda/
+2) Spyder Python        https://code.google.com/p/spyderlib/
+
+Next, Learn about Python as a data-science tool with the book Python For Data Analysis, 
+which is a great intro book to Python. (This book can be downloaded at http://dl.e-book-free.com/2013/07/python_for_data_analysis.pdf). 
+The author of this book gives a great tutorial on Python at this link https://www.youtube.com/watch?v=w26x-z-BdWQ
+
+Since this group will use Github for code collaboration, 
+follow the link to learn how to use Git as a version control application. 
+https://www.youtube.com/watch?v=mYjZtU1-u9Y&list=PL1F56EA413018EEE1
+
+Finally, learn some of the basics of machine learning with these cheat sheets as introductions:
+1) http://refcardz.dzone.com/refcardz/machine-learning-predictive (for R people)
+2) http://eferm.com/wp-content/uploads/2011/05/cheat3.pdf
+3) http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet
+4) http://peekaboo-vision.blogspot.com/2013/01/machine-learning-cheat-sheet-for-scikit.html
